@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E120DDB41F66E75000D8107B /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E120DDB31F66E75000D8107B /* MasterViewController.swift */; };
 		F55E5AA21D95A523002036DD /* Park.swift in Sources */ = {isa = PBXBuildFile; fileRef = F55E5AA11D95A523002036DD /* Park.swift */; };
 		F55E5AA51D95A6E6002036DD /* ParksDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = F55E5AA41D95A6E6002036DD /* ParksDataSource.swift */; };
 		F55E5AA81D95AF94002036DD /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F55E5AA71D95AF94002036DD /* CollectionViewCell.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E120DDB31F66E75000D8107B /* MasterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
 		F55E5AA11D95A523002036DD /* Park.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Park.swift; sourceTree = "<group>"; };
 		F55E5AA41D95A6E6002036DD /* ParksDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParksDataSource.swift; sourceTree = "<group>"; };
 		F55E5AA71D95AF94002036DD /* CollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
@@ -49,6 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				F55E5AAA1D95CFA3002036DD /* DetailViewController.swift */,
+				E120DDB31F66E75000D8107B /* MasterViewController.swift */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -195,6 +198,7 @@
 			files = (
 				F55E5AA81D95AF94002036DD /* CollectionViewCell.swift in Sources */,
 				F55E5AA51D95A6E6002036DD /* ParksDataSource.swift in Sources */,
+				E120DDB41F66E75000D8107B /* MasterViewController.swift in Sources */,
 				F5CD47311D949A70007A3267 /* AppDelegate.swift in Sources */,
 				F55E5AAB1D95CFA3002036DD /* DetailViewController.swift in Sources */,
 				F55E5AA21D95A523002036DD /* Park.swift in Sources */,
